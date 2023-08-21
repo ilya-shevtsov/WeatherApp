@@ -1,6 +1,6 @@
 # WeatherApp
 This is a simple Weather App. It provides you with the current day's temperature, pressure, humidity, and wind speed. You can also check today's weather forecast.
-The project is written using: Retrofit, Dagger Hilt, Clean Archetecture, MVVM, LocationManeger, Kotlin Coroutines and Compose. 
+The project is written using: [Open Meteo API](open-meteo.com), Retrofit, Dagger Hilt, Clean Archetecture, MVVM, LocationManeger, Kotlin Coroutines and Compose. 
 
 # Demonstration
 
